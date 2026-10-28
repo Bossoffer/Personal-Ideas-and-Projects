@@ -1,3 +1,2 @@
-# Flies
-这是私人存放代码的仓库
-#这个是程先生存放代码的仓库
+# Personal Ideas and Projects
+Github是一个好地方，世界的一片净土！
